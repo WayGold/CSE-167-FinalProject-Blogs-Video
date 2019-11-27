@@ -16,6 +16,7 @@ We plan to implement a foggy thriller escape game with randomly generated trees 
 3. First person camera
 4. Selection Buffer
 5. Collision detection with bounding spheres or boxes
+6. Sound effects
 
 #### Medium
 1. Procedurally generated Terrain
@@ -27,3 +28,4 @@ We believe that the most creative part of the game would be the drastic contrast
 
 ### Sketching:
 ![Sketch](sketch.jpeg)
+The boundaries of how far we randomly generate trees are defined by the dotted line cube surrounding our camera. As the camera moves, the cube moves with it so that every time we move to a new position on our terrain plain, we see trees with different shapes and at different spots. We don't render any trees outside the cube since the player would not be able to see very far due to the fog.
