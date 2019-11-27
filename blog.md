@@ -26,4 +26,4 @@ We plan to implement a foggy thriller escape game with randomly generated trees 
 We believe that the most creative part of the game would be the drastic contrast from thriller to cartoon at the end of the game which hopefully would give us an surprisingly entertaining effect.
 
 ### Sketching:
-![Sketch](sketch.jpg)
+![Sketch](sketch.jpeg)
