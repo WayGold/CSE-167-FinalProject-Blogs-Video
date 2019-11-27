@@ -1,7 +1,8 @@
 ## Project Name: Random Land
 
 ### Team Members:
-A53302898 Xu, Wei 
+A53302898 Xu, Wei
+
 A13487193 Wei, Zeng
 
 ### Project Description:
