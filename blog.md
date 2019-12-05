@@ -39,4 +39,4 @@ We realized that volumetric fog effect might be a little too complicated to impl
 We prioritized some technical points such as the Procedurally generated terrain and plants, the Toon shading and the first person camera movement on the terrain. The Procedurally generated terrain was implement by Xu with the diamond square algorithm and the plants generation was implemented by Wei with the L-system. We successfully planted the trees onto the terrain and were able to control the player with the camera on the terrain simulating a walking effect. Toon Shading was also implemented and we could switch shadings.
 
 <!-- TODO -->
-![ScreenShot](TODO)
+![ScreenShot](blog2.gif)
