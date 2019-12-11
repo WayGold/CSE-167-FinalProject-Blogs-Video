@@ -38,7 +38,6 @@ We realized that volumetric fog effect might be a little too complicated to impl
 ### - What we did last week
 We prioritized some technical points such as the Procedurally generated terrain and plants, the Toon shading and the first person camera movement on the terrain. The Procedurally generated terrain was implement by Xu with the diamond square algorithm and the plants generation was implemented by Wei with the L-system. We successfully planted the trees onto the terrain and were able to control the player with the camera on the terrain simulating a walking effect. Toon Shading was also implemented and we could switch shadings.
 
-<!-- TODO -->
 ![ScreenShot](blog2.gif)
 
 ## Blog 3:
@@ -49,5 +48,4 @@ We removed a few technical points as marked above in the TP section. Also, we ma
 ### What we did last week:
 During the last week of development, we finalized the features of our project. We used an easier approach to implement the fog effect and now we are able to toggle on and off the fog. The terrain plane of our world was also made smoother so that the environment looks better aesthetically. We also added the key to re-generate the terrain and the trees with the key "T".
 
-<!-- TODO -->
 ![ScreenShot](blog3.gif)
