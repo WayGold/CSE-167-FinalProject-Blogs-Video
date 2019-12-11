@@ -12,16 +12,16 @@ We plan to implement a foggy thriller escape game with randomly generated trees 
 
 #### Easy
 1. Toon Shading                                       (IMPLEMENTED)
-2. Particle Effect (DISCARDED)
+2. Particle Effect                                    (DISCARDED)
 3. First person camera                                (IMPLEMENTED)
-4. Selection Buffer
-5. Collision detection with bounding spheres or boxes
-6. Sound effects
+4. Selection Buffer                                   (DISCARDED)
+5. Collision detection with bounding spheres or boxes (DISCARDED)
+6. Sound effects                                      (DISCARDED)
 
 #### Medium
 1. Procedurally generated Terrain                     (IMPLEMENTED)
 2. Procedurally generated plants with L-systems       (IMPLEMENTED)
-3. Shadow mapping (TBD)
+3. Shadow mapping                                     (DISCARDED)
 
 ### What's Creative:
 We believe that the most creative part of the game would be the drastic contrast from thriller to cartoon at the end of the game which hopefully would give us a surprisingly entertaining effect.
@@ -40,3 +40,14 @@ We prioritized some technical points such as the Procedurally generated terrain 
 
 <!-- TODO -->
 ![ScreenShot](blog2.gif)
+
+## Blog 3:
+
+### Update:
+We removed a few technical points as marked above in the TP section. Also revised our creative approach.
+
+### What we did last week:
+During the last week of development, we finalized the features of our project. We used an easier approach to implement the fog effect and now we are able to toggle on and off the fog. The terrain plane of our world was also made smoother so that the environment looks better aesthetically. We also added the key to re-generate the terrain and the trees with the key "T".
+
+<!-- TODO -->
+![ScreenShot](blog3.gif)
