@@ -1,4 +1,4 @@
-## Project Name: Random Land
+## Project Name: Find Prof.Schulze
 
 ### Team Members:
 A53302898 Xu, Wei
@@ -43,9 +43,9 @@ We prioritized some technical points such as the Procedurally generated terrain 
 ## Blog 3:
 
 ### Update:
-We removed a few technical points as marked above in the TP section. Also, we made so changes to the goal of the game and the creativity approach (check previous section). Now, the goal is to find the photo of Prof.Schulze!
+We removed a few technical points as marked above in the TP section. Also, we made so changes to the goal of the game and the creativity approach (check previous section). Now, the goal is to find the photo of Prof.Schulze! Rename the project to "Find Prof.Schulze".
 
 ### What we did last week:
-During the last week of development, we finalized the features of our project. We used an easier approach to implement the fog effect and now we are able to toggle on and off the fog. The terrain plane of our world was also made smoother so that the environment looks better aesthetically. We also added the key to re-generate the terrain and the trees with the key "T".
+During the last week of development, we finalized the features of our project. We used an easier approach to implement the fog effect and now we are able to toggle on and off the fog. The terrain plane of our world was also made smoother and the trees were also modified in shapes so that the environment looks better aesthetically. We also added the key to re-generate the terrain and the trees with the key "T". In addition, the key 'c' allows player to enter flying mode to see the entire terrain.
 
 ![ScreenShot](blog3.gif)
